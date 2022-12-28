@@ -1,16 +1,6 @@
-package com.zyu;
+package com.twelfthxyz;
 
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.LinearGradient;
-import android.graphics.Paint;
-import android.graphics.Shader;
-import android.os.SystemClock;
-import android.util.AttributeSet;
-
-import com.aigestudio.wheelpicker.WheelPicker;
-import com.aigestudio.wheelpicker.WheelPicker;
-import com.aigestudio.wheelpicker.WheelPicker.OnWheelChangeListener;
+import com.twelfthxyz.wheelpicker.WheelPicker;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.WritableMap;

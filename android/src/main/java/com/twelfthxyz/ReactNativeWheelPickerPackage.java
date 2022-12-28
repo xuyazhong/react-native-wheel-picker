@@ -1,4 +1,4 @@
-package com.zyu;
+package com.twelfthxyz;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

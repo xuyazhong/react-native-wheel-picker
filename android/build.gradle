@@ -30,6 +30,5 @@ repositories {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation 'cn.aigestudio.wheelpicker:WheelPicker:1.1.2'
     implementation 'com.facebook.react:react-native:+'
 }

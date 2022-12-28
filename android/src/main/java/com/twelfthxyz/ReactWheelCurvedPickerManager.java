@@ -1,14 +1,12 @@
-package com.zyu;
+package com.twelfthxyz;
 
 import android.graphics.Color;
 import android.os.Handler;
 import android.os.Looper;
-import android.util.Log;
 
-import com.aigestudio.wheelpicker.WheelPicker;
+import com.twelfthxyz.wheelpicker.WheelPicker;
 import com.facebook.react.bridge.ReadableArray;
 import com.facebook.react.bridge.ReadableMap;
-import com.facebook.react.bridge.ReadableType;
 import com.facebook.react.common.MapBuilder;
 import com.facebook.react.uimanager.PixelUtil;
 import com.facebook.react.uimanager.SimpleViewManager;
